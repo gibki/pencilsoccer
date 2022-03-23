@@ -1,0 +1,11 @@
+.display-container {
+    padding-top: 5px;
+}
+
+code {
+    display: inline-block;
+    white-space: normal;
+    max-width:100%;
+    word-break:break-all;
+    word-wrap:break-word;
+}
